@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Scoreboard
+comment0.text=\r\n\ The\ ScoreBoard\ is\ used\ to\ display\ the\ score\ on\ the\ screen.\r\n\r\n\ @author\ (\ Elysha\ Fitriana\ )\r\n\ \r\n\ \r\n
+comment1.params=
+comment1.target=Scoreboard()
+comment1.text=\r\n\ Creates\ a\ scoreboard\r\n
+comment2.params=score
+comment2.target=Scoreboard(int)
+comment2.text=\r\n\ Creates\ a\ scoreboard\ for\ the\ final\ result\ once\ player\ is\ out\ of\ lives\r\n
+comment3.params=score\ mess
+comment3.target=Scoreboard(int,\ java.lang.String)
+comment4.params=score\ mess\ desc
+comment4.target=Scoreboard(int,\ java.lang.String,\ java.lang.String)
+comment5.params=title\ prefix\ score
+comment5.target=void\ makeImage(java.lang.String,\ java.lang.String,\ int)
+comment5.text=\r\n\ Makes\ the\ scoreboard\ image.\r\n
+numComments=6

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Frogger
+comment0.text=\r\n\ The\ Frogger\r\n\ \r\n\ @author\ (\ Elysha\ Fitriana\ )\r\n
+comment1.params=
+comment1.target=Frogger()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Frogger\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=w
+comment3.target=void\ addedToWorld(greenfoot.World)
+comment4.params=
+comment4.target=void\ CheckKeyPress()
+comment4.text=\r\n\ Method\ checkKeys\r\n\ Controls\ the\ frogger\ by\ hitting\ the\ corrisponding\ keys\r\n
+comment5.params=
+comment5.target=boolean\ CheckDeath()
+comment5.text=\r\n\ Method\ checkDeath\r\n\r\n\ checks\ to\ see\ if\ the\ frogger\ has\ been\ hit\ by\ the\ enemy\r\n
+comment6.params=
+comment6.target=boolean\ CheckWin()
+comment6.text=\r\n\ Method\ checkWin\r\n\r\n\ Checks\ to\ see\ if\ the\ player\ has\ won\r\n
+comment7.params=win
+comment7.target=void\ EndGame(boolean)
+comment7.text=\r\n\ endGame\ method\ will\ expect\ true\ (for\ success)\ or\ false\ (for\ failure\!)\r\n
+comment8.params=speed
+comment8.target=void\ SetSpeed(int)
+numComments=9

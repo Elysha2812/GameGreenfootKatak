@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=LifeCounter
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ LifeCounter\ here.\r\n\ \r\n\ @author\ (\ Elysha\ Fitriana\ )\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=LifeCounter()
+comment1.text=\r\n\ LifeCounter\ Constructor\r\n\ counts\ the\ amount\ of\ lives\ left\ starting\ at\ 3\r\n
+comment2.params=
+comment2.target=void\ SubtractLife()
+comment2.text=\r\n\ Method\ subtractLife\r\n\ subtracts\ a\ life\ when\ the\ frogger\ is\ hit\ by\ a\ ambulance\ or\ bus\ and\ splats\r\n
+numComments=3

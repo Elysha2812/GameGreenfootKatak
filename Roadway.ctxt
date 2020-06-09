@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Roadway
+comment0.text=\r\n\ Controller\ Class.\ Owns\ and\ coordinates\r\n\ \r\n\ @author\ (\ Elysha\ Fitriana\ )\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Roadway()
+comment1.text=\r\n\ Roadway\ Constructor\r\n\ Adds\ the\ lifecounter\ and\ the\ sounds\ that\ occur\ when\ you\ level\ up,\ get\ smushed,\ or\ lose\ the\ game\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Method\ act\r\n\ Loads\ the\ scoreboard\ and\ the\ Game\ Over\ sign\ that\ comes\ up\ when\ you\ lose\ the\ game\r\n
+comment3.params=
+comment3.target=void\ LevelLoader()
+comment3.text=\r\n\ Method\ LevelLoader\r\n\ Loads\ the\ level\ and\ sets\ the\ speed\ of\ the\ enemy\ based\ on\ the\ level\r\n
+comment4.params=
+comment4.target=void\ SpawnCars()
+comment4.text=\r\n\ Controlled\ spawning\ of\ new\ cars\r\n
+comment5.params=win
+comment5.target=void\ EndLevel(boolean)
+comment5.text=\r\n\ Method\ endLevel\r\n\ This\ method\ is\ used\ when\ the\ player\ dies\ or\ finishes\ a\ level\r\n\ True\ \=\ player\ completed\ level\r\n\ False\ \=\ player\ died\ on\ that\ level\r\n\ \r\n
+comment6.params=
+comment6.target=boolean\ ActionPaused()
+comment6.text=\r\n\ Method\ isActionPaused\r\n\ Returns\ wether\ the\ game\ is\ paused\ during\ live\ action\r\n\ \r\n
+comment7.params=byHowMany
+comment7.target=void\ ReduceAutoCount(int)
+comment7.text=\r\n\ Allows\ objects\ to\ inform\ this\ controller\ when\ they\ are\ about\ to\ \r\n\ remove\ themselves\ from\ the\ world.\r\n
+numComments=8

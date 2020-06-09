@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=BloodPool
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ BloodPool\ here.\r\n\ \r\n\ @author\ (\ Elysha\ Fitriana\ )\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=BloodPool()
+comment1.text=\r\n\ BloodPool\ Constructor\r\n\ Sets\ the\ color\ for\ the\ blood\ when\ the\ frogger\ is\ hit\r\n
+comment2.params=w
+comment2.target=void\ AddedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Act\ -\ do\ whatever\ the\ BloodPool\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=4

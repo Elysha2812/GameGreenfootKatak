@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Ambulance
+comment0.text=\r\n\ West-bound\ cars\ -\ Ambulance\r\n\ @author\ (\ Elysha\ Fitriana\ )\r\n\ \r\n
+comment1.params=speed
+comment1.target=Ambulance(int)
+comment1.text=\r\n\ WestboundAuto\ Constructor\r\n\r\n\ Sets\ the\ speed\ of\ the\ Ambulance\r\n
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment2.text=\r\n\ Method\ addedToWorld\r\n\r\n\ Adds\ the\ ambulance\ to\ the\ world\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ The\ act\ method\ checks\ for\ cars\ in\ front\ and\ adjusts\ speed\ when\ necessary.\ It\ also\ removes\r\n\ the\ ambulance\ when\ it\ reaches\ the\ edge\ of\ the\ screen\ (World)\r\n
+comment4.params=
+comment4.target=boolean\ atWorldEdge()
+comment4.text=\r\n\ Method\ atWorldEdge\r\n\r\n\ Removes\ the\ ambulance\ once\ it\ reaches\ the\ end\ of\ the\ screen\r\n
+comment5.params=
+comment5.target=int\ getSpeed()
+comment5.text=\r\n\ Allows\ other\ cars\ to\ see\ how\ fast\ the\ player\ is\ moving.\ Returns\ speed\ in\ pixels-per-act\r\n
+numComments=6
